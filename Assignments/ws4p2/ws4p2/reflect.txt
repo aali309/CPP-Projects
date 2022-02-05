@@ -1,0 +1,12 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2513
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Calibri;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\ri0\partightenfactor0
+
+\f0\fs24 \cf0 In this assignment I learnt how a default constructor is created automatically by the C++ compiler. When created, it generates garbage values. With this, I learnt that as a programmer it is important to construct a custom constructor to initialize all values appropriately. Also, I learnt that for every object created, C++ constructs a default destructor for cleanup. \
+	In this assignment we dealt with dynamic memory allocation. I learnt that it is important to validate and check if the data provided as parameter is validated, if not set to the values you prefer (i.e I called the setEmpty() to do this job). Since I dynamically allocated memory for the name of Saiyan, it was important that I create custom destructor to cleanup this memory to prevent memory leak. It is strictly programmer\'92s responsibility to clean up the memory for any dynamic allocated memory.\
+	The prototype was updated to remove the \'93cosnt\'94 so enable update and changing of values for the powers of Saiyan all the time he wins. If it was const changing the values and power would not be possible it would generate error for not allowing to change a constant value.\
+}

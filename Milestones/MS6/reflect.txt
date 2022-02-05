@@ -1,0 +1,10 @@
+	Atif Ali
+	116743196
+	aali309@myseneca.ca
+
+	Creating this project, I learnt three main things. I learnt how to open a file, read and append data on the file. Also, to check if file is empty or corrupted when opening the file. I Also learnt how to close the file.
+	Secondly, I learnt more and put into practice the core topics of OPP which are Encapsulation, Inheritance and Polymorphism. I learnt how to deal with objects, make private, public and protected members and also how to access data members when using a particular namespace. I also learnt a class can inherit members from a base class and from a derived class. This is very handy in OPP since you do not need to repeat codes that share the same logic. You just need to know how to inherit them from (may be a base class). This is also easy when debugging and reading the code. 
+	Finally, I had to put into practice the ideas and logic we learnt regarding polymorphism. The keyword ‘virtual’ is my favorite key word in C++, this helps with using and redefining the same function used in the base class. The compiler them can use the functions even using dynamic function and static function binding.
+	The difficulties mostly faced by me was validating data or user input and also memory leaks. It was necessary for me to use virtual keyword when making destructors on the base (good way of coding) class so that the memory is cleared correctly. Also, on validating it was mainly the logic which I just had to go over my previous constructors from my workshops and teacher’s examples and make a connection. 
+	I also learnt how to overload the input and output operators. This was very important in during the project that also includes polymorphism. It is useful because it eases the coding part by not duplicating the logic in the hierarchy system.
+

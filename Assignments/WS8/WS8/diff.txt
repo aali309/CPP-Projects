@@ -1,0 +1,14 @@
+In line number 11 of your output:
+The output should be:
+          Type: Family doctor
+                              ^
+But your output is: 
+          Type: Family doctor 
+                             ^
+
+Unmatched character details:
+The character in column 30 is supposed to be:
+  [Empty Line] ASCII code(0)
+but you printed
+  [Space] ASCII code(32)
+
